@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentScholarshipInformationBusLogic", "StudentScholarshipInformationBusLogic\StudentScholarshipInformationBusLogic.csproj", "{178304DF-9EA5-4815-A313-2E48109E7EE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentScholarshipInformationBusLogic", "StudentScholarshipInformationBusLogic\StudentScholarshipInformationBusLogic.csproj", "{178304DF-9EA5-4815-A313-2E48109E7EE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentInfoManager.Model", "StudentInfoManager.Model\StudentInfoManager.Model.csproj", "{DF792519-940A-4DAC-B069-F37D78707EEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentInfoManager.Model", "StudentInfoManager.Model\StudentInfoManager.Model.csproj", "{DF792519-940A-4DAC-B069-F37D78707EEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IStudentScholarshipInformation", "IStudentInfoManager\IStudentScholarshipInformation.csproj", "{76E7F746-7FC6-43E5-9186-D5D2E354A756}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IStudentScholarshipInformation", "IStudentInfoManager\IStudentScholarshipInformation.csproj", "{76E7F746-7FC6-43E5-9186-D5D2E354A756}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentScholarshipInformation.Console", "StudentScholarshipInformation.Console\StudentScholarshipInformation.Console.csproj", "{56497850-0262-4E25-ABDF-C256C16231FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentScholarshipInformation.Console", "StudentScholarshipInformation.Console\StudentScholarshipInformation.Console.csproj", "{56497850-0262-4E25-ABDF-C256C16231FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
